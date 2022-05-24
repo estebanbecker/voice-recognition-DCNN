@@ -1,0 +1,3 @@
+[submodule "kaldifeat"]
+	path = kaldifeat
+	url = https://github.com/yuyq96/kaldifeat
